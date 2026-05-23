@@ -1,5 +1,5 @@
 "# BraTS SwinUNETR Project" 
-"Trained for 60 epochs"
+"Trained for 180 epochs"
 
 "Dice Scores"
 <img width="1186" height="648" alt="Screenshot 2026-05-02 201809" src="https://github.com/user-attachments/assets/bf592ec3-2d2e-4a1e-a6a1-9eb1a6bf9056" />

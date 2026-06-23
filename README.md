@@ -1,5 +1,5 @@
 "# BraTS SwinUNETR Project" 
-"Trained for 180 epochs"
+"Trained for 60 epochs"
 
 "Dice Scores"
 <img width="492" height="361" alt="image" src="https://github.com/user-attachments/assets/bf135446-6cb5-460c-bc12-d04b268cbc53" />
@@ -17,4 +17,22 @@
 "Sample 6"
 <img width="487" height="259" alt="image" src="https://github.com/user-attachments/assets/7d08365d-86f1-4361-9272-762e277c2528" />
 
+"BraTS 2023 with 70 epochs and 128 patch size"
 
+"Dice Scores"
+<img width="465" height="347" alt="Screenshot 2026-06-23 203124" src="https://github.com/user-attachments/assets/b7b5ebf5-a0ee-485f-84ff-6b32978f9c7a" />
+
+"Feature Extraction"
+<img width="593" height="277" alt="Screenshot 2026-06-15 004945" src="https://github.com/user-attachments/assets/291ec9b9-c055-42db-b5d6-d7c6984dbd67" />
+
+<img width="574" height="276" alt="Screenshot 2026-06-15 005000" src="https://github.com/user-attachments/assets/64896b38-44a3-4612-b35d-d2dbb440a66e" />
+
+<img width="582" height="261" alt="Screenshot 2026-06-15 010756" src="https://github.com/user-attachments/assets/0af590cd-1b8d-4719-88c8-65dda3f51ffa" />
+
+<img width="585" height="330" alt="Screenshot 2026-06-15 111557" src="https://github.com/user-attachments/assets/0665b7d2-f8af-40dd-8ed3-453dd5a7cd29" />
+
+<img width="823" height="473" alt="Screenshot 2026-06-20 151152" src="https://github.com/user-attachments/assets/f1bc21ea-4491-497f-8610-0eebe4e115e1" />
+
+<img width="813" height="497" alt="Screenshot 2026-06-20 151221" src="https://github.com/user-attachments/assets/1dd3cb7c-8350-4309-8846-c31fd28b86c4" />
+
+<img width="388" height="415" alt="Screenshot 2026-06-20 151237" src="https://github.com/user-attachments/assets/e8abdfdf-2eed-42e1-b952-3a9615c4d5a6" />

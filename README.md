@@ -36,3 +36,11 @@
 <img width="813" height="497" alt="Screenshot 2026-06-20 151221" src="https://github.com/user-attachments/assets/1dd3cb7c-8350-4309-8846-c31fd28b86c4" />
 
 <img width="388" height="415" alt="Screenshot 2026-06-20 151237" src="https://github.com/user-attachments/assets/e8abdfdf-2eed-42e1-b952-3a9615c4d5a6" />
+
+"RAG Output"
+<img width="949" height="474" alt="Screenshot 2026-07-01 154357" src="https://github.com/user-attachments/assets/43094619-1e22-4247-87f8-1f14e423492c" />
+<img width="953" height="484" alt="Screenshot 2026-07-01 154424" src="https://github.com/user-attachments/assets/23da32ec-a3c4-4486-9054-2e0e5688ae33" />
+<img width="955" height="474" alt="Screenshot 2026-07-01 154457" src="https://github.com/user-attachments/assets/b1abbd17-eb26-470c-95f7-44df40523bb4" />
+<img width="952" height="284" alt="Screenshot 2026-07-01 154516" src="https://github.com/user-attachments/assets/72cee08f-03e3-4796-8d6e-2971d2f4ffe7" />
+
+

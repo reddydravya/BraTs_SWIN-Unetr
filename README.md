@@ -33,9 +33,7 @@
 
 <img width="823" height="473" alt="Screenshot 2026-06-20 151152" src="https://github.com/user-attachments/assets/f1bc21ea-4491-497f-8610-0eebe4e115e1" />
 
-<img width="813" height="497" alt="Screenshot 2026-06-20 151221" src="https://github.com/user-attachments/assets/1dd3cb7c-8350-4309-8846-c31fd28b86c4" />
 
-<img width="388" height="415" alt="Screenshot 2026-06-20 151237" src="https://github.com/user-attachments/assets/e8abdfdf-2eed-42e1-b952-3a9615c4d5a6" />
 
 "RAG Output"
 <img width="949" height="474" alt="Screenshot 2026-07-01 154357" src="https://github.com/user-attachments/assets/43094619-1e22-4247-87f8-1f14e423492c" />
